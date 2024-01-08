@@ -25,6 +25,8 @@ epochs = 1500
 #trains the neural network for 2000 epochs and graphs the predictions every 100 epochs, if set to False it will not graph 
  ANN.train(2000, 100)
 ```
+![alt text](https://github.com/killianAubry/Machine-Learning-Python/blob/main/Figures/graph.png?raw=true)
+
 
 Contributions to enhance the programs are welcome. Feel free to open issues, submit pull requests, or provide feedback. Your input will be valuable for refining the script and making it more versatile.
 
